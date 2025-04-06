@@ -1,5 +1,4 @@
 
-Copy
 # 🎥 Face Tracker Video using OpenCV and face_recognition
 
 This project tracks and uniquely identifies human faces from a CCTV video using Python, OpenCV, and the `face_recognition` library.
