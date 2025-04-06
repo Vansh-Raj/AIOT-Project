@@ -86,7 +86,7 @@ face_tracker_video/
 This project is licensed under the MIT License.
 
 👨‍💻 Author
-Vansh – GitHub Profile
+Vansh – https://github.com/Vansh-Raj
 
 📬 Contact
 For feedback or queries, feel free to open an issue or reach out!
