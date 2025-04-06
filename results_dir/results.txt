@@ -1,0 +1,4 @@
+Video: cctv.mp4
+Unique faces: 2
+Processing time: 18.8s
+Frames processed: 720/720

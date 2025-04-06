@@ -1,0 +1,93 @@
+Video file: cctv.mp4
+Processing date: 2025-04-06 18:54:43.720351
+Processing parameters:
+  - Sample rate: 5 (every 5th frame)
+  - Minimum face size: 3% of frame height
+  - Similarity threshold: 0.6
+  - Detection sensitivity: 3
+Results:
+  - Unique faces detected: 79
+  - Video duration: 59.52 seconds
+  - Frames processed: 298 out of 1488
+  - Processing time: 53.28 seconds
+
+Face appearance timestamps:
+Face #0: 1 appearances, first at 0.00s, last at 0.00s
+Face #1: 1 appearances, first at 0.20s, last at 0.20s
+Face #2: 4 appearances, first at 0.40s, last at 13.40s
+Face #3: 1 appearances, first at 0.60s, last at 0.60s
+Face #4: 1 appearances, first at 1.00s, last at 1.00s
+Face #5: 1 appearances, first at 1.20s, last at 1.20s
+Face #6: 2 appearances, first at 1.80s, last at 42.40s
+Face #7: 1 appearances, first at 2.00s, last at 2.00s
+Face #8: 1 appearances, first at 2.20s, last at 2.20s
+Face #9: 1 appearances, first at 2.40s, last at 2.40s
+Face #10: 1 appearances, first at 3.60s, last at 3.60s
+Face #11: 1 appearances, first at 3.80s, last at 3.80s
+Face #12: 1 appearances, first at 4.00s, last at 4.00s
+Face #13: 1 appearances, first at 4.00s, last at 4.00s
+Face #14: 1 appearances, first at 4.20s, last at 4.20s
+Face #15: 1 appearances, first at 4.20s, last at 4.20s
+Face #16: 1 appearances, first at 4.40s, last at 4.40s
+Face #17: 1 appearances, first at 4.40s, last at 4.40s
+Face #18: 1 appearances, first at 4.60s, last at 4.60s
+Face #19: 1 appearances, first at 4.80s, last at 4.80s
+Face #20: 1 appearances, first at 5.20s, last at 5.20s
+Face #21: 2 appearances, first at 6.40s, last at 13.60s
+Face #22: 1 appearances, first at 6.60s, last at 6.60s
+Face #23: 1 appearances, first at 7.00s, last at 7.00s
+Face #24: 1 appearances, first at 8.00s, last at 8.00s
+Face #25: 1 appearances, first at 8.40s, last at 8.40s
+Face #26: 1 appearances, first at 9.00s, last at 9.00s
+Face #27: 1 appearances, first at 9.20s, last at 9.20s
+Face #28: 1 appearances, first at 9.40s, last at 9.40s
+Face #29: 1 appearances, first at 9.60s, last at 9.60s
+Face #30: 1 appearances, first at 9.80s, last at 9.80s
+Face #31: 1 appearances, first at 10.00s, last at 10.00s
+Face #32: 1 appearances, first at 10.20s, last at 10.20s
+Face #33: 1 appearances, first at 11.20s, last at 11.20s
+Face #34: 1 appearances, first at 12.40s, last at 12.40s
+Face #35: 1 appearances, first at 12.60s, last at 12.60s
+Face #36: 2 appearances, first at 13.00s, last at 17.60s
+Face #37: 1 appearances, first at 13.80s, last at 13.80s
+Face #38: 1 appearances, first at 14.20s, last at 14.20s
+Face #39: 1 appearances, first at 14.40s, last at 14.40s
+Face #40: 1 appearances, first at 14.60s, last at 14.60s
+Face #41: 1 appearances, first at 14.80s, last at 14.80s
+Face #42: 1 appearances, first at 15.00s, last at 15.00s
+Face #43: 1 appearances, first at 15.20s, last at 15.20s
+Face #44: 1 appearances, first at 15.60s, last at 15.60s
+Face #45: 1 appearances, first at 15.80s, last at 15.80s
+Face #46: 1 appearances, first at 16.00s, last at 16.00s
+Face #47: 1 appearances, first at 16.20s, last at 16.20s
+Face #48: 1 appearances, first at 16.40s, last at 16.40s
+Face #49: 1 appearances, first at 16.80s, last at 16.80s
+Face #50: 1 appearances, first at 17.00s, last at 17.00s
+Face #51: 3 appearances, first at 18.20s, last at 51.40s
+Face #52: 1 appearances, first at 18.60s, last at 18.60s
+Face #53: 2 appearances, first at 19.40s, last at 19.60s
+Face #54: 1 appearances, first at 19.80s, last at 19.80s
+Face #55: 1 appearances, first at 20.00s, last at 20.00s
+Face #56: 1 appearances, first at 32.40s, last at 32.40s
+Face #57: 1 appearances, first at 32.60s, last at 32.60s
+Face #58: 1 appearances, first at 32.80s, last at 32.80s
+Face #59: 1 appearances, first at 33.20s, last at 33.20s
+Face #60: 1 appearances, first at 33.20s, last at 33.20s
+Face #61: 1 appearances, first at 33.40s, last at 33.40s
+Face #62: 1 appearances, first at 33.60s, last at 33.60s
+Face #63: 1 appearances, first at 33.80s, last at 33.80s
+Face #64: 1 appearances, first at 34.00s, last at 34.00s
+Face #65: 1 appearances, first at 34.20s, last at 34.20s
+Face #66: 1 appearances, first at 34.20s, last at 34.20s
+Face #67: 2 appearances, first at 43.60s, last at 44.40s
+Face #68: 1 appearances, first at 43.80s, last at 43.80s
+Face #69: 1 appearances, first at 44.00s, last at 44.00s
+Face #70: 1 appearances, first at 44.00s, last at 44.00s
+Face #71: 1 appearances, first at 44.20s, last at 44.20s
+Face #72: 1 appearances, first at 46.40s, last at 46.40s
+Face #73: 1 appearances, first at 47.40s, last at 47.40s
+Face #74: 1 appearances, first at 47.80s, last at 47.80s
+Face #75: 1 appearances, first at 51.20s, last at 51.20s
+Face #76: 1 appearances, first at 51.60s, last at 51.60s
+Face #77: 1 appearances, first at 51.80s, last at 51.80s
+Face #78: 1 appearances, first at 52.00s, last at 52.00s
