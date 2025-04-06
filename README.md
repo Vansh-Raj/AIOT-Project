@@ -33,36 +33,29 @@ This project tracks and uniquely identifies human faces from a CCTV video using 
    ```bash
    git clone https://github.com/your-username/face_tracker_video.git
    cd face_tracker_video
-2.Create and activate a virtual environment
+2. Create and activate a virtual environment
+   
+   ```bash
+   python -m venv .venv
+   source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+3. Install dependencies
+   ```bash
+   pip install -r requirements.txt
+4. (Optional) Manually install face_recognition_models if needed
+   ```bash
+   pip install git+https://github.com/ageitgey/face_recognition_models
+5. (Linux only) Fix OpenCV GUI issues (if cv2.imshow fails)
+   ```bash
+   sudo apt install libgtk2.0-dev pkg-config
+   pip uninstall opencv-python
+   pip install opencv-python-headless
+6.📂 Usage
+   Put your input video file (e.g., cctv.mp4) in the project directory.
 
-Copy
-python -m venv .venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
-Install dependencies
+   Run the tracker:
+   bash
+   python face_counter.py cctv.mp4 --output results_dir
 
-bash
-Copy
-pip install -r requirements.txt
-(Optional) Manually install face_recognition_models if needed
-
-bash
-Copy
-pip install git+https://github.com/ageitgey/face_recognition_models
-(Linux only) Fix OpenCV GUI issues (if cv2.imshow fails)
-
-bash
-Copy
-sudo apt install libgtk2.0-dev pkg-config
-pip uninstall opencv-python
-pip install opencv-python-headless
-📂 Usage
-Put your input video file (e.g., cctv.mp4) in the project directory.
-
-Run the tracker:
-
-bash
-Copy
-python face_counter.py cctv.mp4 --output results_dir
 Press q to quit early
 
 Output will be saved as annotated_output.avi in results_dir
@@ -81,18 +74,19 @@ Saves annotated video with tracking overlays
 🗂 Directory Structure
 bash
 Copy
+Edit
 face_tracker_video/
 │
-├── face_counter.py         # Main script
-├── requirements.txt        # Dependencies
-├── cctv.mp4                # Example input video
-├── results_dir/            # Output folder
-└── README.md               # This file
+├── face_counter.py        # Main script
+├── requirements.txt       # Dependencies
+├── cctv.mp4               # Example input video
+├── results_dir/           # Output folder
+└── README.md              # This file
 📄 License
-MIT License
+This project is licensed under the MIT License.
 
 👨‍💻 Author
-Vansh – GitHub
+Vansh – GitHub Profile
 
 📬 Contact
-For feedback or queries, feel free to open an issue or reach out.
+For feedback or queries, feel free to open an issue or reach out!
